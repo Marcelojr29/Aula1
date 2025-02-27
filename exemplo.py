@@ -5,6 +5,6 @@
 
 # print(nome, idade, altura, estudante)
 
-idade = "22" #idade é uma string
+idade = 22 #idade é uma string
 idadeInt = int(idade) #casting converter para inteiro
 print(idadeInt, type(idadeInt))
